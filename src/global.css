@@ -1,0 +1,20 @@
+@import url('https://v1.fontapi.ir/css/SFProDisplay');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Soenhe Buch';
+  src: url('./assets/fonts/test-soehne-buch.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Soenhe Dreiviertelfett';
+  src: url('./assets/fonts/test-soehne-dreiviertelfett.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Soenhe Kraftig';
+  src: url('./assets/fonts/test-soehne-kraftig.woff2') format('woff2');
+}
